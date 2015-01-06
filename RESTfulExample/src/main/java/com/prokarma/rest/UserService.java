@@ -27,6 +27,7 @@ public class UserService {
 	@Produces(MediaType.APPLICATION_XML)
 	@Consumes(MediaType.APPLICATION_XML)
 	public User getUser(@PathParam("name") String name) {
+		logger.info("getUser");
 		logger.info("getUser:{}", name);
 		User u = new User();
 
