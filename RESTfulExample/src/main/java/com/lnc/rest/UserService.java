@@ -1,4 +1,4 @@
-package com.prokarma.rest;
+package com.lnc.rest;
 
 import java.util.ArrayList;
 import java.util.List;

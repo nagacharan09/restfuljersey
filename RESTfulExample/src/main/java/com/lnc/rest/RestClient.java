@@ -1,4 +1,4 @@
-package com.prokarma.rest;
+package com.lnc.rest;
 import java.io.IOException;
 
 import javax.ws.rs.core.MediaType;
